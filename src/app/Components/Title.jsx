@@ -4,9 +4,7 @@ import React from 'react';
 
 const Title = () => {
     return (
-        <div>
-            
-        </div>
+        <h1 className='text-[color:var(--color-coldlead)] text-[26.9px] md:text-[45px]'>The affiliate CRM</h1>
     );
 };
 
