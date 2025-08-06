@@ -131,7 +131,7 @@ const LeadTable = () => {
                                     <DropdownMenu.Root>
                                         <DropdownMenu.Trigger>
                                             <Button variant="ghost" color="gray" size="1">
-                                                <FiMoreVertical />
+                                                <FiMoreVertical className='text-white'/>
                                             </Button>
                                         </DropdownMenu.Trigger>
                                         <DropdownMenu.Content color="white" highContrast>
